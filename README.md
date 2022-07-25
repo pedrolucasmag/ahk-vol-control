@@ -28,4 +28,4 @@ handleVolume("down","spotify.exe",0.5)
 Return 
 ```
 # Credits
-This script is a wrapper of [Volume.ahk](https://gist.github.com/G33kDude/5b7ba418e685e52c3e6507e5c6972959) from [G33kDude](https://github.com/G33kDude).
+This script is a wrapper of [Volume.ahk]([https://gist.github.com/G33kDude/5b7ba418e685e52c3e6507e5c6972959](https://old.reddit.com/r/AutoHotkey/comments/87colk/controlling_volume_of_specific_applications/dx2r5vb/)) from [G33kDude](https://github.com/G33kDude).
