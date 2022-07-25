@@ -9,6 +9,8 @@ Simply add ahk-vol-control.ahk into your script and invoke handleVolume().
 It has three parameters: (up/down | focused window / executable | step to increase/decrease volume).
 
 ```
+#Include ahk-vol-control.ahk
+
 ;== Control Volume of focused application (Ctrl + Shift + Insert / Ctrl + Shift + Home) ==;
 +^Insert::
 handleVolume("up","focused",0.5)
