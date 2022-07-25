@@ -3,6 +3,7 @@ AHK script to changes volume of the focused program in the window using hotkeys.
 
 Games must be borderless/windowed.
 
+# How to use
 Simply add ahk-vol-control.ahk into your script and invoke handleVolume().
 
 It has three parameters: (up/down | focused window / executable | step to increase/decrease volume).
@@ -26,5 +27,5 @@ Return
 handleVolume("down","spotify.exe",0.5)
 Return 
 ```
-
+# Credits
 This script is a wrapper of [Volume.ahk](https://gist.github.com/G33kDude/5b7ba418e685e52c3e6507e5c6972959) from [G33kDude](https://github.com/G33kDude).
