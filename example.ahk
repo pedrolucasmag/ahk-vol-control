@@ -11,7 +11,7 @@ Return
 handleVolume("down","focused",0.5)
 Return
 
-;== Control Volume of spotify (Ctrl + Insert / Ctrl + Home) ==;
+;== Control Volume of spotify (z / x) ==;
 z::
 handleVolume("up","spotify.exe",0.5)
 Return
